@@ -1,0 +1,4 @@
+baseURL = "http://botangisi.org/"
+languageCode = "it-it"
+title = "Botangisi"
+theme = "ace-documentation"
