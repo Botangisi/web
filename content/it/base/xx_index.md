@@ -1,6 +1,6 @@
 +++
-title = "Base"
-description = "Informazioni di base"
+title = "Info"
+description = "Associazione Botangisi"
 weight ="1"
 +++
 
