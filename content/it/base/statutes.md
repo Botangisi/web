@@ -4,10 +4,9 @@ description = "Statuti Associazione Botangisi"
 weight ="1"
 +++
 
-# Statuti Associazione Botangisi
-
 Statuti Associazione Botangisi
 con sede a Massagno – Gradinata San Carlo 1
+
 ## 1. Nome e sede
 A norma dell’art. 60 segg. del Codice civile è costituita un’associazione denominata  “Botangisi”, con sede a Massagno.
 
