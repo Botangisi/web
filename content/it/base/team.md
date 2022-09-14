@@ -5,14 +5,15 @@ weight ="2"
 +++
 
 
-## 1. Comitato 
+## Comitato 
 
 * [Domenico Zucchetti](https://www.linkedin.com/in/domenico-zucchetti-0125b4aa) Presidente 
 * [Gioia Bulundwe](https://www.linkedin.com/in/gioia-bulundwe-138bb91a1) Membro
 * [Zeno Boila](https://www.linkedin.com/in/zeno-boila-3a09aa107) Membro
 
 
-## 2. Consiglio consultivo
+## Consiglio consultivo
 
 * Didier Kinano
+* [Amos Brocco](https://www.supsi.ch/home_en/strumenti/rubrica/dettaglio.6640.backLink.4baa159d-d981-4298-b02e-4c200c6bb1a9.html), docente SUPSI 
 
