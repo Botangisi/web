@@ -14,6 +14,6 @@ weight ="2"
 
 ## Consiglio consultivo
 
-* Didier Kinano
-* [Amos Brocco](https://www.supsi.ch/home_en/strumenti/rubrica/dettaglio.6640.backLink.4baa159d-d981-4298-b02e-4c200c6bb1a9.html), docente SUPSI 
+* Didier Kinano, Ministero dell'Educazione Primaria Secondaria e Tecnica della Repubblica del Congo.
+* [Amos Brocco](https://www.supsi.ch/home_en/strumenti/rubrica/dettaglio.6640.backLink.4baa159d-d981-4298-b02e-4c200c6bb1a9.html), docente SUPSI.
 
