@@ -12,6 +12,7 @@ weight ="2"
 * [Zeno Boila](https://www.linkedin.com/in/zeno-boila-3a09aa107) Membro
 
 
+
 ## Consiglio consultivo
 
 * Didier Kinano, [Ministero dell'Educazione Primaria Secondaria e Tecnica della Repubblica del Congo](https://www.eduquepsp.education/v1/).
