@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Contact"
-weight ="1"
+weight ="4"
 +++
 ## Adresse
 Association Botangisi
