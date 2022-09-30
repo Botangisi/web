@@ -1,10 +1,8 @@
 +++
 title = "Menu"
-description = "Informations de base"
+description = "Menu"
 weight ="1"
 +++
-
-# Menu
 
 
 
