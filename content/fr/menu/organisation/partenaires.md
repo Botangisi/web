@@ -1,5 +1,5 @@
 +++
 title = "Partenaires"
 description = "Partenaires"
-weight ="1"
+weight ="3"
 +++
