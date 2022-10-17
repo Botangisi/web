@@ -10,10 +10,3 @@ L'**Association Botangisi** est une organisation à but non lucratif, dont l'obj
 
 Le terme Botangisi signifie enseignement en [lingala](https://it.wikipedia.org/wiki/Lingua_lingala), une langue bantoue parlée au Congo.  
 Conformément à la culture africaine, dont les accents sont davantage tournés vers le groupe, le verbe *botangisi* implique également une action de la part de l'élève. L'enseignement est donc une action conjointe entre l'enseignant et l'élève. 
-
-## Collaboration avec le Ministère de l'Enseignement Primaire Secondaire et Technique
-
-L'Association Botangisi collabore avec le MEPST du Congo RDC.
-
-
-
