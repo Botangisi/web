@@ -3,7 +3,7 @@ title = "Partenaires"
 description = "Partenaires"
 weight ="3"
 +++
-Voici les organisations partenaires de l'association avec qui nous menons nos projets.
+Voici les organisations partenaires de l'association avec qui elle mène ses projets.
 
 La société [Banana SA](https://www.banana.ch/fr/societe)
 

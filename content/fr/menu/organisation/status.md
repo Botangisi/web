@@ -4,7 +4,7 @@ description = "Status"
 weight ="4"
 +++
 ### Statuts de l'Association Botangisi
-### basée à Massagno - Gradinata San Carlo 1
+basée à Massagno - Gradinata San Carlo 1
 
 #### 1. Nom et siège social
 Aux termes de l'article 60 et suivants du Code civil, il est constitué une association dénommée "Botangisi", dont le siège est à Massagno.
