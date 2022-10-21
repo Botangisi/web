@@ -1,5 +1,5 @@
 +++
-title = "Francais"
+title = "Français"
 description = "Association Botangisi"
 weight ="3"
 +++

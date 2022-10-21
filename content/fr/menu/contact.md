@@ -5,7 +5,7 @@ weight ="4"
 +++
 ## Adresse
 Association Botangisi
-Via La Santa 7
-6962 Viganello
+Gradinata San Carlo 1
+6900 Massagno
 ## Email
-info@...
+botangisi@gmail.com
