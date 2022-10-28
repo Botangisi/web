@@ -1,9 +1,9 @@
 +++
-title = "Status"
-description = "Status"
+title = "Statut"
+description = "Statut"
 weight ="4"
 +++
-### Statuts de l'Association Botangisi
+### Statut de l'Association Botangisi
 basée à Massagno - Gradinata San Carlo 1
 
 #### 1. Nom et siège social
