@@ -1,4 +1,4 @@
-# Comité de l'Association Botangisi
+# Comité
 Le Comité est l'organe qui pilote l'association.
 Chaque membre du comité apporte une expertise différente à l'association.
 
@@ -8,7 +8,7 @@ Chaque membre du comité apporte une expertise différente à l'association.
 
 [Zeno Boila](https://www.linkedin.com/in/zeno-boila-3a09aa107/)
 
-# Conseil consultatif de l'Association Botangisi
+# Conseil consultatif
 Le Conseil consultatif de l'association comprend des membres qui entretiennent une relation privilégiée avec le Comité. Ces personnes soutiennent et conseillent le comité dans ses décisions et dans la réalisation de ses projets en tant qu'experts dans leurs domaines.
 
 Didier Kinano, [Ministère de l'Enseignement Primaire, Secondaire et Technique](https://www.eduquepsp.education/v1/), République Démocratique du Congo
