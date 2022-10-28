@@ -1,7 +1,7 @@
 +++
 title = "À propos"
 description = "À propos"
-weight ="2"
+weight ="1"
 +++
 # Mission
 L'association est non partisane, non confessionnelle et à but non lucratif. L'association a pour but de promouvoir l'éducation numérique et collaborative, en mettant l'accent sur la comptabilité, les affaires et le contexte de la coopération internationale :
