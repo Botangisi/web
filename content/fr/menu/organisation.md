@@ -1,3 +1,8 @@
++++
+title = "Organisation"
+description = "Organisation"
+weight ="2"
++++
 # Comité
 Le Comité est l'organe qui pilote l'association.
 Chaque membre du comité apporte une expertise différente à l'association.
