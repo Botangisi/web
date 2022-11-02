@@ -1,6 +1,6 @@
 
 +++
-title = "Visite de l'association en RDC"
+title = "Visite à Kinshasa, République Démocratique du Congo"
 description = "Visite de l'association en RDC"
 weight ="4"
 +++
