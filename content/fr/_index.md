@@ -1,7 +1,8 @@
 +++
-title = "Français"
+title = "Botangisi"
 description = "Association Botangisi"
 weight ="3"
+translationKey = 'home'
 +++
 
 L'**Association Botangisi** est une organisation à but non lucratif, dont l'objectif est de promouvoir l'éducation numérique et collaborative, en mettant l'accent sur la comptabilité, les affaires et le contexte de la coopération internationale.

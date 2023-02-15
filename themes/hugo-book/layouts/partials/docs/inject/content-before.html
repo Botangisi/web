@@ -1,0 +1,8 @@
+{{ if and .File .Site.Params.BookRepo .Site.Params.BookEditPath }}
+  <div class="d-flex flex-row w-100 py-3 justify-content-end">
+    <a class="d-flex align-center" href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ .Site.Params.contentDir | default "content" }}/{{ replace .File.Path "\\" "/" }}" target="_blank" rel="noopener">
+      <img src="{{ "svg/edit.svg" | relURL }}" class="book-icon" alt="Edit" />
+      <span>{{ i18n "Edit" }}</span>
+    </a>
+  </div>
+{{ end }}

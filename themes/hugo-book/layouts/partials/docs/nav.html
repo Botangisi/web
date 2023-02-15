@@ -1,0 +1,12 @@
+<header class="bg-primary text-white py-2">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="d-flex justify-content-between col-md-12">
+        <div><h2>Botangisi</h2></div>
+        {{ if .Site.IsMultiLingual }}
+        {{ partial "docs/languages" . }}
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</header>

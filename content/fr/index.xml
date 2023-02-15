@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Botangisi on </title>
+    <link>https://botangisi.netlify.app/fr/</link>
+    <description>Recent content in Botangisi on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://botangisi.netlify.app/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://botangisi.netlify.app/fr/a_propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/a_propos/</guid>
+      <description>Mission L&amp;rsquo;association est non partisane, non confessionnelle et à but non lucratif. L&amp;rsquo;association a pour but de promouvoir l&amp;rsquo;éducation numérique et collaborative, en mettant l&amp;rsquo;accent sur la comptabilité, les affaires et le contexte de la coopération internationale :
+soutenir les établissements d&amp;rsquo;enseignement, les enseignants, les élèves et les familles dans la transition numérique de l&amp;rsquo;enseignement ; soutenir la sélection, le développement, l&amp;rsquo;acquisition, l&amp;rsquo;introduction, la formation et la mise au point d&amp;rsquo;outils pour l&amp;rsquo;enseignement numérique et collaboratif ; promouvoir la formation, l&amp;rsquo;information, le développement et la mise au point d&amp;rsquo;outils et de méthodologies adaptés ; collaborer avec des groupes, organisations ou entreprises qui travaillent dans le domaine de la formation ou qui fournissent ou produisent des outils utiles à la formation ; fournir des outils et des services (informatiques) qui facilitent l&amp;rsquo;enseignement numérique et collaboratif ; soutenir financièrement des projets d&amp;rsquo;amélioration de l&amp;rsquo;enseignement.</description>
+    </item>
+    
+    <item>
+      <title>Smartphone Computer</title>
+      <link>https://botangisi.netlify.app/fr/projets/smartphonecomputer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/projets/smartphonecomputer/</guid>
+      <description>Voir documentation</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://botangisi.netlify.app/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/contact/</guid>
+      <description>Adresse Association Botangisi Gradinata San Carlo 1 6900 Massagno
+Email botangisi@gmail.com
+Nous soutenir Vous pouvez soutenir l&amp;rsquo;associaiton Botangisi en devenant membre ou en faisant un don. Les dons servent à l&amp;rsquo;achat et l&amp;rsquo;envoi de lapdock dans la phase actuelle de test du projet Smartphone Computer.</description>
+    </item>
+    
+    <item>
+      <title>Visite à Kinshasa, République Démocratique du Congo</title>
+      <link>https://botangisi.netlify.app/fr/projets/visiterdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/projets/visiterdc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

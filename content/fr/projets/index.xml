@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on </title>
+    <link>https://botangisi.netlify.app/fr/projets/</link>
+    <description>Recent content in Projets on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://botangisi.netlify.app/fr/projets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smartphone Computer</title>
+      <link>https://botangisi.netlify.app/fr/projets/smartphonecomputer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/projets/smartphonecomputer/</guid>
+      <description>Voir documentation</description>
+    </item>
+    
+    <item>
+      <title>Visite à Kinshasa, République Démocratique du Congo</title>
+      <link>https://botangisi.netlify.app/fr/projets/visiterdc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://botangisi.netlify.app/fr/projets/visiterdc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
