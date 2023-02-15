@@ -2,7 +2,7 @@ baseURL = "https://botangisi.netlify.app/"
 title = "Botangisi"
 theme = "hugo-book"
 defaultContentLanguage = 'it'
-publishDir = "/content"
+publishDir = "public"
 defaultContentLanguageInSubdir = true 
 [languages]
   [languages.en]
