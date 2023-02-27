@@ -1,4 +1,4 @@
-baseURL = "https://botangisi.netlify.app/"
+baseURL = "https://botangisi.org/"
 title = "Botangisi"
 theme = "hugo-book"
 defaultContentLanguage = 'it'
