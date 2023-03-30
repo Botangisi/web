@@ -5,8 +5,12 @@ weight ="2"
 translationKey = 'projects'
 +++
 
-# The Banana accounting software
+# Our Projects
+
+## The Banana Accounting Software
 The Botangisi association works closely with Banana.ch SA, a Swiss software company specialised in accouting. Since 2018, this firm has kindely provided free licences of its accounting software to the Ministry of Primary, Secondary and Technical Education of DRC. Public and private schools in DRC have since been able to integrate the teaching of digital accouting in their curriculum. We also supported the Ministry in the training of the teachers within the different provinces of the country.
+
+This project encourages the use of digital means in teaching and meets a need in the educational program of this region. The access to this highly qualitative software for free is desicive in the transition to digitalisation for this specific branch. However a great obstacle remains: the access to computer equipment.
 
 At the end of 2022 a scientific article has been published by Kitenge Kalume Deogratias, Mandela Nsengiyumva David and Muleka Kipanga Celestin about the use of the Banana accounting software in Lubumbashi.
 
@@ -18,3 +22,4 @@ Copyright © 2022 ISSR Journals. This is an open access article distributed unde
 
 Find the whole article here: [http://www.ijias.issr-journals.org/abstract.php?article=IJIAS-22-250-37](http://www.ijias.issr-journals.org/abstract.php?article=IJIAS-22-250-37).
 
+## The Smartphone Computer
