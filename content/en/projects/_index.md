@@ -16,5 +16,5 @@ At the end of 2022 a scientific article has been published by Kitenge Kalume Deo
 
 Copyright © 2022 ISSR Journals. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
 
-Find the whole article here: 
+Find the whole article here: [http://www.ijias.issr-journals.org/abstract.php?article=IJIAS-22-250-37](http://www.ijias.issr-journals.org/abstract.php?article=IJIAS-22-250-37).
 
